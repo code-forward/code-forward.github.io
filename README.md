@@ -1,10 +1,10 @@
-## Welcome to Code Forward!
+# Welcome to Code Forward!
 
 *With great power comes great responsibility.*
 
 We are a community of coders who build technology to change our environment for the better.
 
-### Class location & schedule
+## Class location & schedule
 
 **Location** 
 
@@ -18,7 +18,7 @@ We are a community of coders who build technology to change our environment for 
 * Class: Saturdays from 11:00am to 5:00pm
 * Office Hours: Wednesdays from 4:00pm to 7:00pm
 
-### Gakko Contacts
+## Gakko Contacts
 
 **Alex Qin**
 
@@ -40,9 +40,15 @@ We are a community of coders who build technology to change our environment for 
 * Office: (347) 560-1079 
 * Cell: (732) 939-8783
 
-### Sprints
+## Sprints
 
 01/13/18 | [Sprint 0 - Hello, World!](http://github.com/code-forward/sprint-0)
 01/20/18 | Sprint 1 - Our Code Toolkit
 02/03/18 | Sprint 2 - Simple Algorithms
-02/10/18 | Spring 3 - Minimum Viable Product
+02/10/18 | Sprint 3 - Minimum Viable Product
+02/17/18 | Sprint 4 - Design Your App
+02/24/18 | Sprint 5 - The Internet
+03/03/18 | Sprint 6 - Ethics, Security, and Privacy
+03/10/18 | Sprint 7 - Special Topics
+03/17/18 | Sprint 8 - Releasing Code
+03/24/18 | Sprint 9 - Demo Day
