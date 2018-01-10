@@ -1,10 +1,9 @@
-# Welcome to Code Forward!
 
 *With great power comes great responsibility.*
 
 We are a community of coders who build technology to change our environment for the better.
 
-## Class location & schedule
+### Class location & schedule
 
 **Location** 
 
@@ -18,7 +17,7 @@ We are a community of coders who build technology to change our environment for 
 * Class: Saturdays from 11:00am to 5:00pm
 * Office Hours: Wednesdays from 4:00pm to 7:00pm
 
-## Contact information
+### Contact information
 
 **Alex Qin**
 
@@ -40,7 +39,7 @@ We are a community of coders who build technology to change our environment for 
 * Office: (347) 560-1079 
 * Cell: (732) 939-8783
 
-## Sprints
+### Sprints
 
 01/13/18 | [Sprint 0 - Hello, World!](http://github.com/code-forward/sprint-0)
 01/20/18 | Sprint 1 - Our Code Toolkit
