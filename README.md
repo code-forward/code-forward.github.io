@@ -18,7 +18,7 @@ We are a community of coders who build technology to change our environment for 
 * Class: Saturdays from 11:00am to 5:00pm
 * Office Hours: Wednesdays from 4:00pm to 7:00pm
 
-## Gakko Contacts
+## Contact information
 
 **Alex Qin**
 
