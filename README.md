@@ -9,8 +9,6 @@ We are a community of coders who build technology to change our environment for 
 
 * 205 Hudson Street, 7th Floor (Inside the WeWork) New York, NY 10013
 * Building contact: (855) 855-0865
-* Wifi Network: WE WORK 
-* Wifi Password: P@ssw0rd
 
 **Schedule**
 
