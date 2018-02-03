@@ -41,7 +41,7 @@ We are a community of coders who build technology to change our environment for 
 
 01/13/18 | [Sprint 0 - Hello, World!](http://github.com/code-forward/sprint-0)
 01/20/18 | [Sprint 1 - Our First Web App](http://github.com/code-forward/sprint-1)
-02/03/18 | Sprint 2 - Simple Algorithms
+02/03/18 | [Sprint 3 - Introducing JavaScript](http://github.com/code-forward/sprint-2)
 02/10/18 | Sprint 3 - Minimum Viable Product
 02/17/18 | Sprint 4 - Design Your App
 02/24/18 | Sprint 5 - The Internet
