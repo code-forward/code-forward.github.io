@@ -13,7 +13,7 @@ We are a community of coders who build technology to change our environment for 
 **Schedule**
 
 * Class: Saturdays from 11:00am to 5:00pm
-* Office Hours: Wednesdays from 4:00pm to 7:00pm
+* Office Hours: Fridays from 4:00pm to 8:00pm
 
 ### Contact information
 
