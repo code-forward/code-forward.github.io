@@ -21,7 +21,10 @@ Code needs to be readable to both you and a knowledgeable third party. This invo
 * Giving variables meaningful names. Variables named `A`, `B`, and `C` or `foo`, `bar`, and `baz` give the reader no information whatsoever about their purpose or what information they may hold. Names like `principal`, `maximum`, and `counter` are much more useful. Loop variables are a common exception to this idea, and loop variables named `i`, `j`, etc. are okay.
 * The code should be well organized. Methods should be defined in one section of the program, code should be organized into methods so that blocks of code that need to be reused are contained within methods to enable that, and methods should have meaningful names.
 
-Please refer to the [Google Java style guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html) for an idea of what 'Excellent' readability might look like.
+Please refer to the following style guides for an idea of what 'Excellent' readability might look like:
+
+- [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)
 
 ### Code Efficiency
 There are often many ways to write a program that meets a particular specification, and several of them are often poor choices. They may be poor choices because they take many more lines of code (and thus your effort and time) than needed, or they may take much more of the computer's time to execute than needed. For example, a certain section of code can be executed ten times by copying and pasting it ten times in a row or by putting it in a simple for loop. The latter is far superior and greatly preferred, not only because it makes it faster to both write the code and read it later, but because it makes it easier for you to change and maintain.
