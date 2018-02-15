@@ -4,12 +4,12 @@ This document lays out common criteria used to review student code (in order of 
 
 | Criterion | Excellent | Good | Adequate | Developing |
 |---|---|---|---|---|
-| **Program Specifications / Correctness** | No errors, program always works correctly and meets the specification(s). | Minor details of the program specification are violated, program functions incorrectly for some inputs. | Significant details of the specification are violated, program often exhibits incorrect behavior. | Program only functions correctly in very limited cases or not at all. |
+| **Correctness** | No errors, program always works correctly and meets the specification(s). | Minor details of the program specification are violated, program functions incorrectly for some inputs. | Significant details of the specification are violated, program often exhibits incorrect behavior. | Program only functions correctly in very limited cases or not at all. |
 | **Readability** | No errors, code is clean, understandable, and well-organized. | Minor issues with consistent indentation, use of whitespace, variable naming, or general organization. | At least one major issue with indentation, whitespace, variable names, or organization. | Major problems with at three or four of the readability subcategories. |
 | **Code Efficiency** | No errors, code uses the best approach in every case. | N/A | Code uses poorly-chosen approaches in at least one place. | Many things in the code could have been accomplished in an easier, faster, or otherwise better fashion. |
 | **Assignment Specifications** | No errors | N/A | Minor details of the assignment specification are violated, such as files named incorrectly or extra instructions slightly misunderstood. | Significant details of the specification are violated, such as extra instructions ignored or entirely misunderstood. |
 
-### Program Specifications / Correctness
+### Correctness
 
 This is the most important criterion. A program must meet its specifications and function correctly. This means that it behaves as desired, producing the correct output, for a variety of inputs.
 
