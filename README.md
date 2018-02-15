@@ -49,3 +49,8 @@ We are a community of coders who build technology to change our environment for 
 03/10/18 | Sprint 7 - Special Topics
 03/17/18 | Sprint 8 - Releasing Code
 03/24/18 | Sprint 9 - Demo Day
+
+### Resources
+
+* [Code Review Guidelines](code-review-guidelines.md)
+* [Code Review Rubric](code-review-rubric.md)
