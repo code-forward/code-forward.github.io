@@ -44,13 +44,14 @@ We are a community of coders who build technology to change our environment for 
 02/03/18 | [Sprint 2 - Introducing JavaScript](http://github.com/code-forward/sprint-2)
 02/10/18 | [Sprint 3 - Minimum Viable Product](http://github.com/code-forward/sprint-3)
 02/17/18 | [Sprint 4 - Design your app](http://github.com/code-forward/sprint-4)
-02/24/18 | Sprint 5 - The Internet
-03/03/18 | Sprint 6 - Ethics, Security, and Privacy
+02/24/18 | [Sprint 5 - mkdir my-app](http://github.com/code-forward/sprint-5)
+03/03/18 | Sprint 6 - The Internet
 03/10/18 | Sprint 7 - Special Topics
-03/17/18 | Sprint 8 - Releasing Code
+03/17/18 | Sprint 8 - Ethics, Security, and Privacy
 03/24/18 | Sprint 9 - Demo Day
 
 ### Resources
 
 * [Code Review Guidelines](code-review-guidelines.md)
 * [Code Review Rubric](code-review-rubric.md)
+* [Trello board](https://trello.com/b/UvO8XBm6/code-forward)
