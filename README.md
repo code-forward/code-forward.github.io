@@ -30,13 +30,6 @@ We are a community of coders who build technology to change our environment for 
 * zainab@gakkoproject.com 
 * Cell: (516) 661-4059
 
-**Aliya Merali** 
-
-* Gakko Operations 
-* aliya@gakkoproject.com 
-* Office: (347) 560-1079 
-* Cell: (732) 939-8783
-
 ### Sprints
 
 01/13/18 | [Sprint 0 - Hello, World!](http://github.com/code-forward/sprint-0)
@@ -46,7 +39,7 @@ We are a community of coders who build technology to change our environment for 
 02/17/18 | [Sprint 4 - Design your app](http://github.com/code-forward/sprint-4)
 02/24/18 | [Sprint 5 - mkdir my-app](http://github.com/code-forward/sprint-5)
 03/03/18 | [Sprint 6 - User data](http://github.com/code-forward/sprint-6)
-03/10/18 | Sprint 7 - APIs
+03/10/18 | [Sprint 7 - Special topics](http://github.com/code-forward/sprint-7)
 03/17/18 | Sprint 8 - Ethics, Security, and Privacy
 03/24/18 | Sprint 9 - Demo Day
 
