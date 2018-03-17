@@ -40,7 +40,7 @@ We are a community of coders who build technology to change our environment for 
 02/24/18 | [Sprint 5 - mkdir my-app](http://github.com/code-forward/sprint-5)
 03/03/18 | [Sprint 6 - User data](http://github.com/code-forward/sprint-6)
 03/10/18 | [Sprint 7 - Special topics](http://github.com/code-forward/sprint-7)
-03/17/18 | Sprint 8 - Ethics, Security, and Privacy
+03/17/18 | [Sprint 8 - Digital Security](http://github.com/code-forward/sprint-8)
 03/24/18 | Sprint 9 - Demo Day
 
 ### Resources
