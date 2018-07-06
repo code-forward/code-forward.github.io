@@ -8,7 +8,7 @@ We are a community of coders who build technology to change our environment for 
 **Location** 
 
 * Gakko NYC: 243 Canal Street, 6th Floor New York, NY 10013
-* Building contact: (855) 855-0865
+* Building contact: (347) 560-1079
 
 **Schedule**
 
@@ -29,7 +29,8 @@ We are a community of coders who build technology to change our environment for 
 * sean@gakkoproject.com 
 * Cell: (605) 254-3169
 
-** Julie Gafney **
+**Julie Gafney**
+
 * Senior Director
 * julie@gakkoproject.com
 * Phone: (860) 671-1500
