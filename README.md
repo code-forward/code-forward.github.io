@@ -39,7 +39,7 @@ We are a community of coders who build technology to change our environment for 
 
 07/09/18 | [Day 0 - Hello, World!](http://github.com/code-forward/day-0)
 07/10/18 | [Day 1 - Intro to CSS](http://github.com/code-forward/day-1)
-
+07/11/18 | [Day 2 - Intro to JavaScript](http://github.com/code-forward/day-2)
 ### Resources
 
 * [Code Review Guidelines](code-review-guidelines.md)
