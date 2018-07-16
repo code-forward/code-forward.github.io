@@ -41,7 +41,7 @@ We are a community of coders who build technology to change our environment for 
 07/10/18 | [Day 1 - Intro to CSS](http://github.com/code-forward/day-1)  
 07/11/18 | [Day 2 - Intro to JavaScript](http://github.com/code-forward/day-2)  
 07/12/18 | [Day 3 - JavaScript off the web](http://github.com/code-forward/day-3)  
-07/13/18 | [Day 4 - Review and free coding](http://github.com/code-forward/day-4)
+07/13/18 | [Day 4 - Review and free coding](http://github.com/code-forward/day-4)  
 07/16/18 | [Day 5 - Choosing projects, getting started with meteor](http://github.com/code-forward/day-5)  
 ### Resources
 
