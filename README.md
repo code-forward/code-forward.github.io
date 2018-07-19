@@ -43,7 +43,6 @@ We are a community of coders who build technology to change our environment for 
 07/12/18 | [Day 3 - JavaScript off the web](http://github.com/code-forward/day-3)  
 07/13/18 | [Day 4 - Review and free coding](http://github.com/code-forward/day-4)  
 07/16/18 | [Day 5 - Choosing projects, getting started with meteor](http://github.com/code-forward/day-5)  
-### Resources
 
-* [Code Review Guidelines](code-review-guidelines.md)
-* [Code Review Rubric](code-review-rubric.md)
+### Final retrospective
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeeNmZ5N4kpCn3lJOtVTm1l1JB9oWGirsL0d_jmO9sX4L2Zjg/viewform) to give Nabil and Sean your feedback about the class!
