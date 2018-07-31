@@ -35,6 +35,9 @@ We are a community of coders who build technology to change our environment for 
 * julie@gakkoproject.com
 * Phone: (860) 671-1500
 
-### Survey
+### Examples
+For all of these examples, click "View Source" to check out the code, or "Remix This" to modify the code!
 
-https://docs.google.com/forms/d/e/1FAIpQLScBbriz0PuYnI_OMIpo1tR0whVUNzpfGRlBn6ISBMB-Zmle_A/viewform
+* [gakko-grid](https://gakko-grid.glitch.me/)
+* [gakko-paper](https://gakko-paper.glitch.me/)
+* [gakko-sqlite](https://gakko-sqlite.glitch.me/)
