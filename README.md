@@ -12,22 +12,16 @@ We are a community of coders who build technology to change our environment for 
 
 **Schedule**
 
-* Class: Monday - Friday from 11:00am to 5:00pm
-* Lunch hour: ~1 PM daily
+* Class: Tuesdays and Thursdays from 5:00 to 7:30pm
+* Tue Sep 18 through Thu Nov 29, except Thanksgiving week (Tue 11/20 and Thu 11/22)
 
 ### Contact information
 
 **Nabil Hassein**
 
-* Lead Teacher 
+* Teacher 
 * nabil@gakkoproject.com 
 * Cell: (703) 615-4917
-
-**Sean Catangui**
-
-* Teaching Assistant 
-* sean@gakkoproject.com 
-* Cell: (605) 254-3169
 
 **Julie Gafney**
 
@@ -35,10 +29,11 @@ We are a community of coders who build technology to change our environment for 
 * julie@gakkoproject.com
 * Phone: (860) 671-1500
 
-### Examples
-For all of these examples, click "View Source" to check out the code, or "Remix This" to modify the code!
+### Class resources
 
-* [gakko-grid](https://gakko-grid.glitch.me/)
-* [gakko-paper](https://gakko-paper.glitch.me/)
-* [gakko-sqlite](https://gakko-sqlite.glitch.me/)
-* [gakko-apis](https://gakko-apis.glitch.me/)
+**Admin**
+* [Main class repository of notes](https://github.com/code-forward/fall-2018-notes)
+
+**Coding**
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
+* [w3schools](https://www.w3schools.com/)
