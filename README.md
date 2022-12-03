@@ -21,13 +21,11 @@ We are a community of coders who build technology to change our environment for 
 
 * Teacher 
 * nabil@gakkoproject.com 
-* Cell: (703) 615-4917
 
 **Julie Gafney**
 
 * Senior Director
 * julie@gakkoproject.com
-* Phone: (860) 671-1500
 
 ### Class resources
 
